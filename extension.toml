@@ -1,0 +1,7 @@
+[extension]
+id = "project_dashboard"
+name = "Project Dashboard"
+version = "0.1.0"
+description = "Project Dashboard extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
